@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+section.main-section {
+    width: 80%;
+    margin: 0 auto;
+}
+
+section.title {
+    text-align: center;
+    margin-top: 66px;
+}
+
+.first-img {
+    width: 190px;
+    margin-top: 60px;
+    position: relative;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+.ul-section {
+    width: 149px;
+    margin-left: 25px;
+    background: #4C8B30;
+    position: absolute;
+    bottom: 37px;
+}
+
+.ul-items {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -1px;
+}
+.profile-view {
+    width: 200px;
+    margin-top: 40px;
+}
+
+.profile-name {
+    text-align: center;
+}
+
+.position-profile {
+    text-align: center;
+}
+.section.single-card {
+    margin-top: 80px;
+}
+.list-li {
+    list-style-type: none;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    margin-top: 12px;
+}

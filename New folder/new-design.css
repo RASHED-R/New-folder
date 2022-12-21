@@ -1,0 +1,58 @@
+section.title {text-align: center;margin-top: 27px;}
+
+img {
+    height: 200px;
+    width: 194px;
+    box-shadow: 2px 2px 5px rgb(0 0 0 / 50%);
+}
+
+.first-img {
+    height: 200px;
+}
+
+section.main-section {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.ul-section {
+    width: 160px;
+    margin-left: 20px;
+    margin-top: -46px;
+    position: absolute;
+}
+ul.ul-items {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #4C8B30;
+}
+.profile-view {
+    width: 200px;
+    margin-top: 40px;
+}
+
+h4.profile-name {
+    text-align: center;
+}
+
+p.position-profile {
+    text-align: center;
+    margin-top: -14px;
+    color: #4C8B30;
+    font-size: 13px;
+}
+li.list-li {
+    list-style-type: none;
+    border: 1px solid #ffffff6e;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 5px;
+}
+section.card-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 72px;
+}
